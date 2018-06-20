@@ -1,0 +1,13 @@
+Install Git
+Open git bash
+$ ls #listing
+$ cd desktop #Change Directory to Desktop...
+$ cd Akhil #Change directory to my folder where my project files are present...
+$ git init #for initializing and for watching every activity in project...
+$ git clone URl #copy the link from repository from Clone&Downlaod
+$ git config --global user.name "user name" #username of git id
+$ git config --global user.email user Email #useremail of git id
+$ git add filename.txt #for tracking the project file
+$ git status #check whether file is track or not
+$ git commit -m "Any Message" filename.txt #Add project file into local system
+$ git push -u origin master #uploading the file into github then It need username & password of gitid
